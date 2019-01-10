@@ -1,5 +1,6 @@
 ### Zadanie - Kostka
 ## Autor: Bartosz Pacuła 
+* email: <mailto:bartpacula@yahoo.com>
 * LinkedIn: <https://www.linkedin.com/in/bartoszpacula>
 ## O programie
 * Data: Styczeń 2019r. 
@@ -29,19 +30,19 @@ W celu poprawnego działania programu w zmiennej systemowej PATH musi być ustaw
 
 Pliki te to:
 
-lopencv_core320.dll
+opencv_core320.dll
 
-lopencv_imgproc320.dll
+opencv_imgproc320.dll
 
-lopencv_highgui320.dll
+opencv_highgui320.dll
 
-lopencv_imgcodecs320.dll
+opencv_imgcodecs320.dll
 
-lopencv_calib3d320.dll
+opencv_calib3d320.dll
 
 W razie potrzeby mogę dodać je do repozytorium.
 
-# Autorskie pliki programu:
+## Autorskie pliki programu:
 
 kostka.hpp
 
