@@ -98,27 +98,16 @@ I can add them into this repository if requested.
 
 These are colour images 300x300 pixels each. 
 
-
-|  *Obraz1.png*  |  *Obraz1.jpg*  |
-
-|  *Obraz2.png*  |  *Obraz2.jpg*  |
-
-|  *Obraz3.png*  |  *Obraz3.jpg*  |
-
-|  *Obraz4.png*  |  *Obraz4.jpg*  |
-
-|  *Obraz5.png*  |  *Obraz5.jpg*  |
-
-|  *Obraz6.png*  |  *Obraz6.jpg*  |
-
-|  *Obraz7.png*  |  *Obraz7.jpg*  |
-
-|  *Obraz8.png*  |  *Obraz8.jpg*  |
-
-|  *Obraz9.png*  |  *Obraz9.jpg*  |
-
-|  *Obraz10.png*  |  *Obraz10.jpg*  |
-
+  |  *Obraz1.png*  |  *Obraz1.jpg*  |
+  |  *Obraz2.png*  |  *Obraz2.jpg*  |
+  |  *Obraz3.png*  |  *Obraz3.jpg*  |
+  |  *Obraz4.png*  |  *Obraz4.jpg*  |
+  |  *Obraz5.png*  |  *Obraz5.jpg*  |
+  |  *Obraz6.png*  |  *Obraz6.jpg*  |
+  |  *Obraz7.png*  |  *Obraz7.jpg*  |
+  |  *Obraz8.png*  |  *Obraz8.jpg*  |
+  |  *Obraz9.png*  |  *Obraz9.jpg*  |
+  |  *Obraz10.png* |  *Obraz10.jpg* |
 
 ## Version change log
 
