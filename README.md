@@ -1,6 +1,6 @@
 ### Zadanie - Kostka
 ## Author: Bartosz Pacuła 
-* email: [bartpacula@yahoo.com]<mailto:bartpacula@yahoo.com>
+* email: [bartpacula@yahoo.com](mailto:bartpacula@yahoo.com)
 * LinkedIn: <https://www.linkedin.com/in/bartoszpacula>
 ## About
 * Date: January, 2019 
@@ -9,8 +9,9 @@
 * PugiXml library version: 1.9 
 * Boost library version: 1.69.0
 * IDE: Visual Studio: Microsoft Visual Studio Community 2017 v.15.9.4
-* Aplikacja konsoli Windows (architektura: win32)
+* Windows Console (win32)
 
+#### Short description
 A cube of mapped bitmaps is being displayed using a perspective warp function of OpenCV library. The cube can be rotated in 3D using control keys.
 If a configuration file (.txt or .xml) is provided the program starts with textures loaded based on information within the file. Additional image filtering is possible. Supported filter types are: thresholding and gauss blur filter (namely: `thresholding` and `gauss`).
 
@@ -20,7 +21,7 @@ The syntax of *config.txt* file is:
 
 The filter name is optional.
 
-The syntax of config.xml file is:
+The syntax of *config.xml* file is:
 
     <Configuration>
      
@@ -97,31 +98,32 @@ I can add them into this repository if requested.
 
 These are colour images 300x300 pixels each. 
 
-*Obraz1.png*
-*Obraz2.png*
-*Obraz3.png*
-*Obraz4.png*
-*Obraz5.png*
-*Obraz6.png*
-*Obraz7.png*
-*Obraz8.png*
-*Obraz9.png*
-*Obraz10.png*
+* *Obraz1.png*
+* *Obraz2.png*
+* *Obraz3.png*
+* *Obraz4.png*
+* *Obraz5.png*
+* *Obraz6.png*
+* *Obraz7.png*
+* *Obraz8.png*
+* *Obraz9.png*
+* *Obraz10.png*
 
-*Obraz1.jpg*
-*Obraz2.jpg*
-*Obraz3.jpg*
-*Obraz4.jpg*
-*Obraz5.jpg*
-*Obraz6.jpg*
-*Obraz7.jpg*
-*Obraz8.jpg*
-*Obraz9.jpg*
-*Obraz10.jpg*
+
+* *Obraz1.jpg*
+* *Obraz2.jpg*
+* *Obraz3.jpg*
+* *Obraz4.jpg*
+* *Obraz5.jpg*
+* *Obraz6.jpg*
+* *Obraz7.jpg*
+* *Obraz8.jpg*
+* *Obraz9.jpg*
+* *Obraz10.jpg*
 
 ## Version change log
 
-###version: 1.1
+### version: 1.1
 
 *January, 2019*
 
@@ -131,7 +133,7 @@ These are colour images 300x300 pixels each.
 * Unit tests added.
 * Minor code issues fixed.
 
-###version: 1.0
+### version: 1.0
 
 *January, 2019*
 
