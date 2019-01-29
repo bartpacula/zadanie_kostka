@@ -31,6 +31,9 @@ The syntax of *config.xml* file is:
 
 The graphicFilter attribute is optional as well. Every `<Photo>` tag entry has to come within the `<Configuragion>` tag. There's only one `<Configuration>` tag allowed in the configuration file but many `<Photo>` tags are allowed. If the number of them exceeds six the further entries will not be processed. If no configuration file's given the default textures are generated.
 
+For instance to load *config.txt* configuration files just type: `zadanie_kostka config.txt` 
+
+You can omit this extra option and run plain application with its default settings.
 
 Thresholding threshold value is fixed at 128 intensity level. Gauss filter default kernel size is 3.
 
@@ -39,6 +42,8 @@ The application provides 2-level logging. The configuration of the logger is set
 The output can be set between a console and a file output. There levels of logging are: `trace` or `error`. File logging errors only is set by default. The default output file name is *execution.log*. For more information please read *logger_config.xml* file. XML file support has been coded with PugiXML library.
 
 To test the application features unit test cases have been provided. There are 5 of them witin *unit_tests.exe* file (*unit_tests.cpp*). The tests use Boost library test framework.
+
+For more information on the usage type: `unit_tests --help`
 
 ## Additional information
 
