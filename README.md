@@ -98,6 +98,8 @@ I can add them into this repository if requested.
 
 These are colour images 300x300 pixels each. 
 
+  |  *PNG Files*  |  *JPG Files*  |
+  |  :----------:  |  :----------:  |
   |  *Obraz1.png*  |  *Obraz1.jpg*  |
   |  *Obraz2.png*  |  *Obraz2.jpg*  |
   |  *Obraz3.png*  |  *Obraz3.jpg*  |
