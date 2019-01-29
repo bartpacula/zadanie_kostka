@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Configuration>
+
+	<Photo graphicFilter="thresholding">obraz1.jpg</Photo>
+	
+	<Photo>obraz2.jpg</Photo>
+	
+	<Photo graphicFilter="gauss">obraz3.jpg</Photo>
+	
+	<Photo>obraz4.jpg</Photo>
+	
+	<Photo graphicFilter="thresholding">obraz5.jpg</Photo>
+	
+	<Photo>obraz6.jpg</Photo>
+	
+</Configuration>

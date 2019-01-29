@@ -1,0 +1,6 @@
+Obraz1.png gauss
+Obraz2.png
+Obraz3.png thresholding
+Obraz4.png
+Obraz5.png thresholding
+Obraz6.png

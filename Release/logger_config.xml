@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+Level:
+0 - Trace
+1 - Error
+
+Output:
+0: Console
+1: Log file
+-->
+
+<Configuration>
+	<Data Level="1" Output="1"></Data>
+</Configuration>
